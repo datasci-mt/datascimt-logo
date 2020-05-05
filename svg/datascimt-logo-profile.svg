@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="208mm"
-   height="182mm"
-   viewBox="0 0 208 182"
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="datascimt-logo.svg"
-   inkscape:export-filename="C:\Users\aneis\Desktop\datascimt-logo-master\datascimt-logo-profile.png"
+   sodipodi:docname="datascimt-logo-profile.svg"
+   inkscape:export-filename="C:\Users\aneis\Desktop\datascimt-logo-master\datascimt-logo-alinhada.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="127.96887"
-     inkscape:cy="224.36283"
+     inkscape:zoom="1"
+     inkscape:cx="272.25888"
+     inkscape:cy="362.96886"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,8 +42,8 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
-     inkscape:measure-start="280,190"
-     inkscape:measure-end="280,199.286">
+     inkscape:measure-start="106.319,913.178"
+     inkscape:measure-end="135.613,879.59">
     <inkscape:grid
        type="xygrid"
        id="grid4732" />
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,25 +64,24 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-115)">
+     transform="translate(0,-117)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3785"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#2d51a3;fill-opacity:1;stroke:none"
-       transform="matrix(0.28573873,0,0,0.33444873,-33.031783,97.361218)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#2d51a3;fill-opacity:1;stroke:none"
+       transform="matrix(0.62850464,0,0,0.49204536,-185.15601,63.142477)"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692"><flowRegion
          id="flowRegion3787"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:Gadugi;fill:#2d51a3;fill-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#2d51a3;fill-opacity:1"><rect
            id="rect3789"
            width="387.89856"
            height="117.12319"
            x="413.1524"
            y="197.21996"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:Gadugi;fill:#2d51a3;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3791"><flowSpan
-           style="fill:#000000"
-           id="flowSpan5227">Data</flowSpan></flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#2d51a3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3791"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#000000">D</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3793"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -95,24 +94,24 @@
          id="flowPara3799" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3801"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.28465301,0,0,0.24758543,-17.647878,118.58788)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.1796279,0,0,0.18481082,13.635777,149.04659)"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692"><flowRegion
          id="flowRegion3803"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;font-family:Gadugi;-inkscape-font-specification:Gadugi"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'"><rect
            id="rect3805"
            width="420.22345"
            height="326.27927"
            x="345.47217"
            y="260.85956"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;font-family:Gadugi;-inkscape-font-specification:Gadugi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'" /></flowRegion><flowPara
          id="flowPara3807"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gadugi;-inkscape-font-specification:Gadugi">M</flowPara></flowRoot>    <ellipse
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'">M</flowPara></flowRoot>    <ellipse
        style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.09534723;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path4734-1-6-5"
-       cx="79.021957"
-       cy="175.80658"
+       cx="70.918724"
+       cy="176.01419"
        rx="5.9865336"
        ry="5.9798183"
        inkscape:export-xdpi="300.02692"
@@ -122,61 +121,61 @@
        id="rect4814-1-3"
        width="3.7043538"
        height="13.705498"
-       x="-186.51234"
-       y="-69.692207"
+       x="-181.34138"
+       y="-75.970978"
        ry="0"
        transform="matrix(-0.65210728,-0.7581267,0.75352051,-0.6574244,0,0)"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692" />
     <rect
-       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.16745664;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.16479237;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect3823"
        width="11.906247"
-       height="42.333336"
-       x="58.502464"
-       y="200.297"
-       ry="2.277019"
+       height="40.996986"
+       x="50.399231"
+       y="200.50459"
+       ry="2.2051399"
        rx="1.4450853"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692" />
     <rect
-       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.19184569;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.18952458;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect3823-1"
        width="11.906245"
-       height="55.562504"
-       x="73.05455"
-       y="187.06783"
-       ry="2.1641655"
+       height="54.226154"
+       x="64.951317"
+       y="187.27544"
+       ry="2.1121147"
        rx="1.445085"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692" />
     <rect
-       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.15381876;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.15076721;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect3823-8"
        width="11.90625"
-       height="35.718754"
-       x="43.950382"
-       y="206.91158"
-       ry="1.921235"
+       height="34.31559"
+       x="35.847149"
+       y="207.11919"
+       ry="1.8457618"
        rx="1.4450855"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692" />
     <rect
-       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.12178005;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.11773286;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect3823-8-3"
        width="11.852865"
-       height="22.489586"
-       x="29.451687"
-       y="220.14075"
-       ry="1.2096666"
+       height="21.019604"
+       x="21.348452"
+       y="220.34834"
+       ry="1.1305994"
        rx="1.438606"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692" />
     <ellipse
        style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.09481101;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path4734-1-6-5-9"
-       cx="64.519318"
-       cy="189.0826"
+       cx="56.41608"
+       cy="189.29021"
        rx="6.0032382"
        ry="5.8962965"
        inkscape:export-xdpi="300.02692"
@@ -184,8 +183,8 @@
     <ellipse
        style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.09521396;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path4734-1-6-5-9-0"
-       cx="49.916447"
-       cy="195.71062"
+       cx="41.813213"
+       cy="195.91821"
        rx="5.9865336"
        ry="5.9631138"
        inkscape:export-xdpi="300.02692"
@@ -193,8 +192,8 @@
     <ellipse
        style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.09467901;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path4734-1-6-5-9-0-1"
-       cx="35.321514"
-       cy="208.92021"
+       cx="27.218281"
+       cy="209.12781"
        rx="5.9865336"
        ry="5.8962965"
        inkscape:export-xdpi="300.02692"
@@ -213,41 +212,42 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3801-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26532844,0,0,0.24758543,51.338144,118.5335)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26026156,0,0,0.18433017,29.463907,149.09941)"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692"><flowRegion
          id="flowRegion3803-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;font-family:Gadugi;-inkscape-font-specification:Gadugi"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'"><rect
            id="rect3805-3"
            width="420.22345"
            height="326.27927"
            x="345.47217"
            y="260.85956"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66665649px;font-family:Gadugi;-inkscape-font-specification:Gadugi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:266.66665649px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'" /></flowRegion><flowPara
          id="flowPara3807-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gadugi;-inkscape-font-specification:Gadugi">T</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'">T</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3785-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#2d51a3;fill-opacity:1;stroke:none"
-       transform="matrix(0.30883963,0,0,0.31825441,15.027003,101.85294)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#2d51a3;fill-opacity:1;stroke:none"
+       transform="matrix(0.79662223,0,0,0.47421944,-212.08556,67.559051)"
        inkscape:export-xdpi="300.02692"
        inkscape:export-ydpi="300.02692"><flowRegion
          id="flowRegion3787-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:Gadugi;fill:#2d51a3;fill-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#2d51a3;fill-opacity:1"><rect
            id="rect3789-9"
            width="387.89856"
            height="117.12319"
            x="413.1524"
            y="197.21996"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:Gadugi;fill:#2d51a3;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3791-6">Sci</flowPara></flowRoot>    <rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#2d51a3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3791-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold'">S</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#2d51a3;fill-opacity:1;stroke:none;stroke-width:0.11105868;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect4814-1-3-6"
        width="3.7043538"
        height="13.705497"
-       x="-200.27266"
-       y="-35.326473"
+       x="-197.03738"
+       y="-42.781548"
        ry="0"
        transform="matrix(-0.41607503,-0.90933029,0.90638078,-0.4224617,0,0)"
        inkscape:export-xdpi="300.02692"
@@ -257,8 +257,8 @@
        id="rect4814-1-3-6-2"
        width="3.7043538"
        height="13.705496"
-       x="-183.02524"
-       y="-105.16246"
+       x="-177.92505"
+       y="-111.49873"
        ry="0"
        transform="matrix(-0.6435064,-0.76544073,0.76089486,-0.64887519,0,0)"
        inkscape:export-xdpi="300.02692"
